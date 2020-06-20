@@ -1,0 +1,1 @@
+It is required to use stegosolve to find the hidden txt message

@@ -1,0 +1,6 @@
+# We need to follow given stepts to receive the flag:
+# 1. Open the webpage: http://2018shell.picoctf.com:10573/
+# 2. Open the web browset inspection tool and go to the cookie section
+# 3. create a new cookie with the admin name and value 1
+# 4. That will enable to login us as admin
+#flag: picoCTF{n0l0g0n_n0_pr0bl3m_ed714e0e}

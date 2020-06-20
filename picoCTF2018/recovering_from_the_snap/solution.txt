@@ -1,0 +1,4 @@
+# the image needs to be mounted.
+# also it is possible to get the solution by using the foremost tool
+# the flag is the following:
+picoCTF{th3_5n4p_happ3n3d}

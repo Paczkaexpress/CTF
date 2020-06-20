@@ -1,0 +1,9 @@
+# instruction to solve:
+# 1. Need to visit the web page first
+# 2. after typing admin as loging we can find that this account is supper secure and we cannot login / dont know the password
+# 3. We can try any other user. In this way we can login but we cannot see the flag. 
+# 4. Lets inspect the cookie files
+# 5. we can find that one of the cookie have admin argument set to False
+# 6. Change it to True and refresh the webside -> ta da you should see the flag now
+
+picoCTF{l0g1ns_ar3nt_r34l_a280e12c}

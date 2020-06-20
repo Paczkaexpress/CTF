@@ -1,0 +1,5 @@
+First we need to indentify the type of vraible, we can do that by using bsah command 'file xxx', after that we need to change the type of the file. After that we will be able to get the flag
+
+In order to open the file we need to use 'display' command.
+
+The sulution is: picoCTF{extensions_are_a_lie}

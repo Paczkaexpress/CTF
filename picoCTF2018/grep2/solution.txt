@@ -1,0 +1,4 @@
+# the solution can be found in the task server
+
+# to solve it we need to navigate to shell and then to: /problems/grep-2_1_ef31faa711ad74321a7467978cb0ef3a/file/
+# then we need to type grep -R -Eo picoCTF{.*}

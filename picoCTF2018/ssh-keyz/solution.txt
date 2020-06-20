@@ -1,0 +1,14 @@
+# the steps to solve the task
+# first generate the ssh key in your local machine. It can be done by using the following command:
+# ssh-keygen -t rsa -C "your_email@example.com"
+# ssh-keygen -t rsa -C "paczkaexpres@gmail.com"
+# then copy created ssh
+# open the picoCTF2018 shell
+# create .shh/ folder
+# navidate into it
+# create authorized_keys file and save created ssh key inside
+# change the ownerchip of the file:
+# chmod 600 authorized_key
+# login on your local machine and get the following flag
+# flag: 
+# picoCTF{who_n33ds_p4ssw0rds_38dj21}

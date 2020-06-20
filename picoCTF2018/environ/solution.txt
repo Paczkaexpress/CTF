@@ -1,0 +1,5 @@
+# the task will be done in the shell inside the ctf webpage
+# in order to solve this task we need to check PC environment variables it can by done by typing:
+# env
+# solution is:
+# picoCTF{eNv1r0nM3nT_v4r14Bl3_fL4g_3758492}

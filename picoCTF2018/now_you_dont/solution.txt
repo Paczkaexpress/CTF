@@ -1,0 +1,4 @@
+# To solve the question we need to download an image
+# then we need to open it and change the colour of the image.
+# after that we will be able to see a flag
+# picoCTF{n0w_y0u_533_m3}

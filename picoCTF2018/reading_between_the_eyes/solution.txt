@@ -1,0 +1,5 @@
+# the flag is hidden in the image. They call it steganography. The image can be decoded in the following webside: https://stylesuxx.github.io/steganography/
+
+# also the tool steghide can be used for that
+
+picoCTF{r34d1ng_b37w33n_7h3_by73s}

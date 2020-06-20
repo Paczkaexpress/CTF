@@ -1,0 +1,4 @@
+# in order to solve the challenge we need to use sql injection
+# it is required to paste this line to the passoword filed on the admin console:
+# ' OR '1'='1' --
+# Your flag is: picoCTF{con4n_r3411y_1snt_1r1sh_c0d93e2f}
